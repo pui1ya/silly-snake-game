@@ -3,7 +3,7 @@
 🐍 Snake Game<br>
 A simple Snake Game built using HTML, CSS, and JavaScript.
 <br>
-🚀 Features
+🚀 Features<br>
 ✅ Playable snake game with movement controls<br>
 ✅ Food appears at random positions<br>
 ✅ Score tracking<br>
