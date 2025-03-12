@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: #61F77A;
+}
+
+#food{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #DD1449;
+    position: absolute;
+}
+
+#snake{
+    width: 40px;
+    height: 40px;
+    border-radius: 30%;
+    background-color: #EB843F;
+    position: absolute;
+}
