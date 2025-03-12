@@ -1,7 +1,7 @@
 # silly-snake-game
 
 🐍 Snake Game<br>
-A simple Snake Game built using HTML, CSS, and JavaScript.
+A simple Snake Game built using HTML, CSS, and JavaScript.<br>
 <br>
 🚀 Features<br>
 ✅ Playable snake game with movement controls<br>
